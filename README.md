@@ -1,1 +1,1 @@
-![img.png](img.png)
+Relates to https://github.com/testng-team/testng/issues/3000
